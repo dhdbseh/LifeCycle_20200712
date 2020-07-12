@@ -15,6 +15,8 @@ class MainActivity : BaseActivity() {
         Log.d("메인화면", "onCreate 실행")
     }
 
+    onsre
+
     override fun setupEvents() {
 
         moveBtn.setOnClickListener {
