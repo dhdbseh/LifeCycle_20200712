@@ -15,6 +15,9 @@ class MainActivity : BaseActivity() {
         Log.d("메인화면", "onCreate 실행")
     }
 
+    onpause
+    Log.d("메인화면", "onPause 실행")
+
     onsre
 
     override fun setupEvents() {
