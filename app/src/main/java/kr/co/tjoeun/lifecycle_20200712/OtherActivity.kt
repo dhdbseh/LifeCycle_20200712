@@ -10,5 +10,5 @@ class OtherActivity : AppCompatActivity() {
         setContentView(R.layout.activity_other)
 
         Log.d("다른화면", "onCreate 실행")
-
+    }
 }
